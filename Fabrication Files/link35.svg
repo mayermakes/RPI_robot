@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="45.89999999999998mm" height="10.899999999999999mm" viewBox="0 0 45.89999999999998 10.899999999999999" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Pad008" transform="translate(5.450000,5.450000) scale(1,-1)">
+<path id="Pad008_f0000"  d="M 34.99999999999998 4.999999999999973 A 5 5 0 1 0 35 -5L 34.99999999999998 -4.999999999999973 A 5 5 0 1 1 35 5L 34.99999999999998 4.999999999999987 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Pad008_f0001"  d="M 3.061616997868383e-16 5.0 L 3.061616997868383e-16 5.0 L 34.99999999999998 4.999999999999987 L 34.99999999999998 4.999999999999987 L 3.061616997868383e-16 5.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Pad008_f0002"  d="M 3.061616997868383e-16 -5.0 A 5 5 0 0 0 -9.18485e-16 5L 3.061616997868383e-16 5.0 A 5 5 0 0 1 -9.18485e-16 -5L -4.592425498671032e-16 -5.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Pad008_f0003"  d="M 34.99999999999998 -4.999999999999973 L 34.99999999999998 -4.999999999999973 L -4.592425498671032e-16 -5.0 L -4.592425498671032e-16 -5.0 L 34.99999999999998 -4.999999999999973 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd"/>
+<circle cx="35.0" cy="1.9977145087415663e-24" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="0.0" cy="4.479252537683848e-25" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="35.0" cy="1.9977145087415663e-24" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="35.0" cy="1.9977145087415663e-24" r="1.75" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Pad008'</title>
+</g>
+</svg>
